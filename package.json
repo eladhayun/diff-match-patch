@@ -1,7 +1,7 @@
 {
   "name": "diff-match-patch",
   "version": "1.0.4",
-  "description": "npm package for https://github.com/google/diff-match-patch",
+  "description": "npm package for https://github.com/google/diff-match-patch adding Line or Word Diffs",
   "keywords": [
     "diff",
     "diff-match-patch",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/JackuB/diff-match-patch.git"
+    "url": "https://github.com/eladhayun/diff-match-patch"
   },
   "license": "Apache-2.0"
 }
