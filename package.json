@@ -1,6 +1,6 @@
 {
   "name": "diff-match-patch-line-word",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "npm package for https://github.com/google/diff-match-patch adding Line or Word Diffs",
   "keywords": [
     "diff",
